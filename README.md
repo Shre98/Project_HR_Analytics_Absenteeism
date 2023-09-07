@@ -12,3 +12,5 @@ enables you to do longitudinal research.
 This enormous HR data set focuses on employee absence. It contains a staggering 8335 rows and 13 columns of data.
 
 The data set contains employee numbers and names, gender, city, job title, department,store location, business unit, division, age, length of service, and the number of hour absent.
+
+--**VIDEO LINK**--https://drive.google.com/drive/u/0/folders/11hHPxiGTLsgZ072kdKaZAWI3I8b_7ElS
